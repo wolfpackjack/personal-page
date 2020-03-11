@@ -1,0 +1,42 @@
+body
+{
+    background-color: black;
+}
+h1
+{
+    color: white;
+    padding-left: 43%;
+}
+h2
+{
+    color: white;
+    padding-left: 38%;
+}
+h3
+{
+    color: white;
+    padding-left: 38%;
+}
+p
+{
+    padding-left: 50%;
+    color: white;
+}
+p1
+{
+    color: white;
+}
+p2
+{
+    color: white;
+    padding-left: 100px;
+}
+a:link 
+{
+    text-decoration: none;
+}
+  
+a:visited 
+{
+    text-decoration: none;
+}
